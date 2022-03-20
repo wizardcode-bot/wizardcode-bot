@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wizardcode-bot
 - 👀 I’m interested in programming websites and web apps and cybersecurity.
 - 🌱 I’m currently learning java, c++, sql, html5, css3, javascript, php and linux.
-- 💞️ I’m looking to collaborate on developing websites and web apps.
+- 💞️ I’m looking forward to collaborate on developing websites and web apps.
 - 📫 How to reach me fabianguzzman@gmail.com
 
 <!---
