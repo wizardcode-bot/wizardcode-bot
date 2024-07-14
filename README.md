@@ -3,7 +3,7 @@
 # 👋 Hey There, I’m Edinson Fabián 
 
 <!-- Letrero Palabras Claves !-->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=3000&pause=500&color=21CDF7&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Web+Development;Cybersecurity" alt="Typing-SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=3000&pause=500&color=21CDF7&center=true&vCenter=true&random=false&width=435&lines=Backend+Development;Web+Development;Cybersecurity" alt="Typing-SVG" />
 </div> <br>
 
 - 👨‍🎓 I’m a Systems Engineer from Colombia :palm_tree:
@@ -15,10 +15,9 @@
 <!-- Licencias !-->
 ![Static License](https://img.shields.io/badge/License-MIT-blue)
 
-<!-- Descripcion !-->
+<!-- Description !-->
 <div align="center">
-
-  <!-- Contactos !-->
+  <!-- Contacts !-->
   <a href="https://github.com/wizardcode-bot" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=405D72&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.github.com" height="35em" alt="Github"/></a> 
   &emsp;
@@ -26,6 +25,7 @@
   <br><br>
 </div>
 
+<!-- Table with icons !-->
 <div>
   <table align="center" width="100%">
   <tr>
@@ -58,6 +58,13 @@
     </td>
   </tr>
 </table>
+</div>
+
+<!-- Statistics !-->
+<div align="center">
+  <h2>:star2: Profile Stats :star2:</h2>
+  <img width=350em src="https://github-readme-stats-salesp07.vercel.app/api?username=wizardcode-bot&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" />
+  <img width=310em src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcode-bot&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/>
 </div>
 
 
