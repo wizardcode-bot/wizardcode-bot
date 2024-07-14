@@ -13,11 +13,20 @@
 - :musical_score: Musician - 💻 Computer Programmer - 📖 Reader
 
 <!-- Licencias !-->
-![Static License](https://img.shields.io/badge/License-MIT-blue)
 
-<!-- Description !-->
-<div align="center">
+&emsp; ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![image](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
+
+&emsp; ![Static License](https://img.shields.io/badge/License-MIT-blue)
+
+
   <!-- Contacts !-->
+<div align="center">
   <a href="https://github.com/wizardcode-bot" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=405D72&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.github.com" height="35em" alt="Github"/></a> 
   &emsp;
@@ -67,7 +76,14 @@
 </div>
 <div align="center"> 
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcode-bot&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/>
-</div>
+</div> 
+
+<!-- Statistics 
+<div align="center">
+  <h2>:bar_chart: Profile Stats :chart_with_upwards_trend:</h2>
+  <img width=510em src="https://github-readme-stats-salesp07.vercel.app/api?username=wizardcode-bot&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" />
+  <img width=300em src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcode-bot&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
+</div> !-->
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
