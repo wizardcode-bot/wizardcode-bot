@@ -69,6 +69,12 @@
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcode-bot&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://github.com/wizardcode-bot/wizardcode-bot/blob/main/github-user-contribution.svg" alt="snake" width="80%"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=wizardcode-bot&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak" />
+</div>
 
 <!---
 wizardcode-bot/wizardcode-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
