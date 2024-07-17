@@ -27,8 +27,8 @@
 
   <!-- Contacts !-->
 <div align="center">
-  <a href="https://github.com/wizardcode-bot" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=405D72&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.github.com" height="35em" alt="Github"/></a> 
+  <a href="https://www.instagram.com/edinssonn?igsh=NDJrdGZmcHcwbTA=" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.instagram.com" height="35em" alt="Instagram"/></a> 
   &emsp;
   <a href="https://www.linkedin.com/in/edinson-guzman/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.linkedin.com" height="35em" alt="linkedin-logo"/></a>
   <br><br>
